@@ -1,9 +1,11 @@
 {
-  "name": "component-conductor",
-  "version": "0.0.1",
+  "name": "@indyecm/ui-conductor",
+  "version": "0.0.2",
+  "private": false,
   "peerDependencies": {
-    "@angular/common": "^13.1.0",
-    "@angular/core": "^13.1.0"
+    "@angular/common": "^9.0.0",
+    "@angular/core": "^9.0.0",
+    "rxjs": "^6.5.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
