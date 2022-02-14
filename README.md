@@ -1,1 +1,3 @@
-# IndyECM.Client.Statemanagement
+# ComponentConductor
+
+Low-level components state management service.
